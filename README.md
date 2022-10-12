@@ -48,7 +48,7 @@ Lorsque la recherche a été sauvegardée, le bouton "copier" permet de copier l
 * Ordre naturel de Windows ou non
 
 ## Paramètres du logiciel
-Langue: fra* nçais et anglais
+* Langue: français et anglais
 * Thème de couleur: clair, sombre et printanier
 
 Requis: Java 8 ou supérieur
